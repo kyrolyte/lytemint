@@ -1,3 +1,3 @@
-module github.com/kyrolyte/mixtra
+module github.com/kyrolyte/lytemint
 
 go 1.25.9
